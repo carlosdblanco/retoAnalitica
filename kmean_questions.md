@@ -1,10 +1,10 @@
 ### ¿Crees que estos centros puedan ser representativos de los datos? ¿Por qué?
 
-    Creo que los centros si son representativos y nos pueden ayudar a segmentar diferentes etapas de la pandemia, diferentes centros marcan hitos en donde se podria tomar decisiones apropiadas.
+    Consideramos que los centros si son representativos porque nos pueden ayudar a segmentar diferentes etapas de la pandemia, además de obtener diferentes centros marcan hitos en donde se colabora a una mejor toma de decisiones.
 
 ### ¿Cómo obtuviste el valor de k a usar?
 
-    Se utilizó dos metodos para determinar cual es mejor.El método del codo y Silhouette Score
+    Se utilizó dos metodos para determinar cual es mejor. El método del codo y Silhouette Score, en donde tras probar diferentes k's con la interpretación del grafico se eligió la mejor k.
 
 ### ¿Los centros serían más representativos si usaras un valor más alto? ¿Más bajo?
 
